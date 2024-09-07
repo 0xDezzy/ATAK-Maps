@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+<name>Positron - All</name>
+<minZoom>1</minZoom>
+<maxZoom>20</maxZoom>
+<tileType>png</tileType>
+<tileUpdate>None</tileUpdate>
+<url>https://a.basemaps.cartocdn.com/light_all/{$z}/{$x}/{$y}@2x.png</url>
+<backgroundColor>#000000</backgroundColor>
+</customMapSource>

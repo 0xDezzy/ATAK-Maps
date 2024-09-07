@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+<name>Dark Matter - Only Labels</name>
+<minZoom>1</minZoom>
+<maxZoom>20</maxZoom>
+<tileType>png</tileType>
+<tileUpdate>None</tileUpdate>
+<url>https://a.basemaps.cartocdn.com/dark_only_labels/{$z}/{$x}/{$y}@2x.png</url>
+<backgroundColor>#000000</backgroundColor>
+</customMapSource>
