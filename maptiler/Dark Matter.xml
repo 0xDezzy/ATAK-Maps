@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+<name>Dark Matter</name>
+<minZoom>1</minZoom>
+<maxZoom>20</maxZoom>
+<tileType>png</tileType>
+<tileUpdate>None</tileUpdate>
+<url>https://api.maptiler.com/maps/darkmatter/{$z}/{$x}/{$y}@2x.png?key=MGym0PhYYZ3w1QJhVuPs</url>
+<backgroundColor>#000000</backgroundColor>
+</customMapSource>
